@@ -1,0 +1,77 @@
+img.logo {
+    width: 100px;
+}
+
+img.small-logo {
+    width: 50px;
+}
+
+.navbar {
+    background-color: pink !important;
+    border-bottom: 1px solid black;
+}
+
+div.top {
+    margin-top: 10px;
+}
+
+div.middle {
+    margin-top: 40px;
+}
+
+div.event {
+    height: 350px;
+}
+
+img.people {
+    max-width: 100%;
+    max-height:600px;
+}
+
+img.event {
+    max-width: 100%;
+    height: 90%;
+}
+
+hr.tight {
+    margin: 2px;
+}
+
+.accordion-button:not(.collapsed) {
+    background-color: pink;
+    color: black;
+}
+
+.accordion-button:focus {
+    box-shadow: none;
+}
+
+.highlight.yellow {
+    background: rgba(255,255,102,0.5) !important;
+}
+
+.highlight.orange {
+    background: rgba(255,165,0,0.5) !important;
+}
+
+.highlight.red {
+    background: rgba(242,222,222,1) !important;
+}
+
+.highlight.green {
+    background: rgba(223,240,216,1) !important;
+}
+
+.highlight.blue {
+    background: rgba(217,237,247,1) !important;
+}
+
+.highlight.purple {
+    background: rgba(201,158,239,0.5) !important;
+}
+
+.classic-border {
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: 5px;
+    background-color: pink !important;
+}
